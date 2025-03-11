@@ -112,6 +112,10 @@ h2 {
     background-size: 180px 180px;
 }
 
+.img-galeria {
+    width: 60%;
+}
+
 #contato {
     background-image: url('Fundo.jpg');
     background-size: cover;
